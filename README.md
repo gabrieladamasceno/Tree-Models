@@ -1,1 +1,3 @@
 # Tree-Models
+
+  The advent of Sixth Generation (6G) networks brings profound integration with Artificial Intelligence (AI), but also expands the attack surface, introducing critical cybersecurity threats such as Zero-Day attacks, which exploit previously unknown vulnerabilities. This paper evaluates the effectiveness of tree-based machine learning models, such as CatBoost, Decision Tree, and Random Forest, in detecting these threats, considering the relationship between detection accuracy and computational resource consumption. The results provide insight that the CatBoost model has the best performance for Zero-Day attack detection, while the Decision Tree model proved to be the most balanced in terms of attack detection and efficiency for 6G networks.
